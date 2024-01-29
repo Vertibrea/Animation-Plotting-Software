@@ -11,6 +11,7 @@ Version -
 2.02 - Integration of multiple plots in the same graph
 2.03 - Integration of further parsing of all symbols inherent in the sympy library
 2.04 - Integration of all symbols not inherent in the sympy library such as notations used in quantum physics though manual definition of rules
+
 2.05 - Integration of time dependence
 2.06 - Integration of aestethic & ease of use fedality and  refinement regarding the UI
 2.07 - Integration of further functionality regarding the merging and coherence of plot behaviour
